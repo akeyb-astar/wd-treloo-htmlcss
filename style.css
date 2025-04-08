@@ -1,6 +1,8 @@
-.menu {
-background-image: "D:\UTS_WEB_BD4A\repo\wd-treloo-htmlcss\assets\Treloo Landing Page.png";
-background-size: cover;
-background-position: bottom;
+.menu li {
+background-image: url('D:\UTS_WEB_BD4A\repo\wd-treloo-htmlcss\assets\unsplash_Ai2TRdvI6gM.png');
+
+}
+
+.rec {
 
 }
